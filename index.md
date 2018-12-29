@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Sindy's Android blog
