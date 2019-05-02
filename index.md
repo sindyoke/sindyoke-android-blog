@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+I made this blog for myself to organize Android knowledge, links, stuff learned in courses, codelabs etc but feel free to spy on me :)
